@@ -18,9 +18,18 @@ DFS实现，竟然还WA了好几次。
 
 Climbing Stairs
 入门级记忆化dp
+
+2014.10.30
+
+Merge Sorted Array
+归并排序基础
+
+Remove Duplicates from Sorted List 
+脑残简单题
+
 =======
 LeetCode
 ========
-  
+   
 source code of leetcode OJ.
 >>>>>>> 639e050a0bb5655ad1069ef8614e1ad2b8f247ae
