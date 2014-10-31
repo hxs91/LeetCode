@@ -27,6 +27,12 @@ Merge Sorted Array
 Remove Duplicates from Sorted List 
 脑残简单题
 
+
+2014.10.31
+
+今天被题目ThreeSum虐出翔，打了球太累，过几天再仔细看。
+
+
 =======
 LeetCode
 ========
