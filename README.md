@@ -32,6 +32,11 @@ Remove Duplicates from Sorted List
 
 今天被题目ThreeSum虐出翔，打了球太累，过几天再仔细看。
 
+2014.11.3
+
+Remove Element
+next Permutation
+
 
 =======
 LeetCode
