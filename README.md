@@ -30,13 +30,26 @@ Remove Duplicates from Sorted List
 
 2014.10.31
 
-今天被题目ThreeSum虐出翔，打了球太累，过几天再仔细看。
+#####今天被题目ThreeSum虐出翔，打了球太累，过几天再仔细看。
 
 2014.11.3
 
 Remove Element
-next Permutation
+#####next Permutation
 
+2014.11.4
+
+#####Gas Station
+此题我的想法比较naive，基本就是模拟最笨的做法，只是用线段树对其进行优化而已。完成过程中用到了线段树的成段更新，利用lazy标记解决，不过看了discuss里，有人用了9行代码就搞定了这题，我也是感觉被自己蠢死了。先就这样吧
+
+Swap Nodes in Pairs
+脑残链表题
+
+Sum Root to Leaf Numbers
+脑残二叉树题
+
+Spiral Matrix II 
+回旋矩阵，DFS
 
 =======
 LeetCode
