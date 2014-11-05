@@ -51,6 +51,24 @@ Sum Root to Leaf Numbers
 Spiral Matrix II 
 回旋矩阵，DFS
 
+2014.11.5
+
+Single Number
+抑或运算
+
+Simplify Path
+栈的运用
+
+Search a 2D Matrix 
+二维二分查找，easy
+
+Remove Duplicates from Sorted Array
+做离散化的时候都写烂了的代码。。。
+
+Unique Paths 和 Unique Paths II 
+入门级dp
+
+
 =======
 LeetCode
 ========
