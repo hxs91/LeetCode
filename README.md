@@ -30,16 +30,16 @@ Remove Duplicates from Sorted List
 
 2014.10.31
 
-#####今天被题目ThreeSum虐出翔，打了球太累，过几天再仔细看。
+*****今天被题目ThreeSum虐出翔，打了球太累，过几天再仔细看。
 
 2014.11.3
 
 Remove Element
-#####next Permutation
+*****next Permutation
 
 2014.11.4
 
-#####Gas Station
+*****Gas Station
 此题我的想法比较naive，基本就是模拟最笨的做法，只是用线段树对其进行优化而已。完成过程中用到了线段树的成段更新，利用lazy标记解决，不过看了discuss里，有人用了9行代码就搞定了这题，我也是感觉被自己蠢死了。先就这样吧
 
 Swap Nodes in Pairs
@@ -70,16 +70,16 @@ Unique Paths 和 Unique Paths II
 
 2014.11.7
 
-######First Missing Positive
+*****First Missing Positive
 好题！这个constant space的限制真是要人命啊，想了一个小时毫无结果，参考别人的思想，想法真是棒极了，完美解决。
 
-###Search for a Range
+***Search for a Range
 还行，要求对二分查找有很好的理解。
 
 Validate Binary Search Tree 
 脑残二叉树题
 
-##Linked List Cycle
+**Linked List Cycle
 在一个单链表中确定其是否存在环，要求常数空间，双指针，步伐不一致即可。若存在环必定会出现快的指针撵上慢指针。
 
 Binary Tree Preorder Traversal
