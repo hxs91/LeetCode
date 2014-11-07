@@ -68,6 +68,22 @@ Remove Duplicates from Sorted Array
 Unique Paths 和 Unique Paths II 
 入门级dp
 
+2014.11.7
+
+######First Missing Positive
+好题！这个constant space的限制真是要人命啊，想了一个小时毫无结果，参考别人的思想，想法真是棒极了，完美解决。
+
+###Search for a Range
+还行，要求对二分查找有很好的理解。
+
+Validate Binary Search Tree 
+脑残二叉树题
+
+##Linked List Cycle
+在一个单链表中确定其是否存在环，要求常数空间，双指针，步伐不一致即可。若存在环必定会出现快的指针撵上慢指针。
+
+Binary Tree Preorder Traversal
+二叉树前序遍历，迭代实现，栈，脑残题
 
 =======
 LeetCode
