@@ -85,6 +85,51 @@ Validate Binary Search Tree
 Binary Tree Preorder Traversal
 二叉树前序遍历，迭代实现，栈，脑残题
 
+2014.11.8
+
+*Insert Interval
+二分+vector
+
+**Distinct Subsequences
+动态规划，dp[i][j]代表S[i]中有多少个T[j].那么dp[i][j]=d[i-1][j]+( S[i]==T[j]?dp[i-1][j-1]:0 );
+
+Best Time to Buy and Sell Stock II 
+脑残贪心题，在最低点买进，在最高点卖出即可。
+
+*Gray Code
+格雷码
+
+*Construct Binary Tree from Preorder and Inorder Traversal 
+通过前序和中序遍历构造二叉树
+
+Multiply Strings
+大数乘法
+
+******Implement strStr() 
+KMP
+解锁了一个特别简单的答案，之后再看吧，反正字符串我是弱逼，估计现在也看不懂o(╯□╰)o：
+
+public int strStr(String haystack, String needle) {
+
+	for (int i = 0; ; i++) {
+	
+		for (int j = 0; ; j++) {
+		
+			if (j == needle.length()) return i;
+			
+			if (i + j == haystack.length()) return -1;
+			
+			if (needle.charAt(j) != haystack.charAt(i + j)) break;
+			
+		}
+		
+	}
+	
+}
+
+
+
+
 =======
 LeetCode
 ========
