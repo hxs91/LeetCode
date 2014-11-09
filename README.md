@@ -127,6 +127,38 @@ public int strStr(String haystack, String needle) {
 	
 }
 
+***Reorder List
+将一个链表重排序，思路：先将链表分成两段，再将后边那一段反序，然后将这两个新链表交叉拼接得到最后答案。
+例如：1->2->3->4 ----> 1->2,3->4 ----> 1->2,4->3 ----> 1->4->2->3;
+
+Candy 
+理解题意，想法还是很简答的。
+
+Binary Tree Zigzag Level Order Traversal
+对于这个题我也能WA那么多次给跪了，果然是刚吃完饭头脑不清晰吗。。。
+
+*****Trapping Rain Water 
+单调栈的基本运用~~~
+
+*Flatten Binary Tree to Linked List 
+将一个二叉树碾平
+
+2014.11.9
+
+****Longest Consecutive Sequence
+最开始脑袋里边闪过很多不切实际并且复杂的做法，最后用unordered_set搞定了。。。
+
+Clone Graph
+作为leetcode唯一一个图论的题目，我只能说，这题真是无聊透顶。。。
+
+Restore IP Addresses
+好吧，脑残题，我只能说这个多case的题，你赢了
+
+Word Break
+暴力DP
+
+******Surrounded Regions 
+我给此题跪了，在BFS时，选择更改操作的地方不一样，导致了我无法理解的TLE。。。另外如果采用dfs的话，会爆栈。
 
 
 
