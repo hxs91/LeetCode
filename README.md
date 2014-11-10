@@ -160,6 +160,30 @@ Word Break
 ******Surrounded Regions 
 我给此题跪了，在BFS时，选择更改操作的地方不一样，导致了我无法理解的TLE。。。另外如果采用dfs的话，会爆栈。
 
+*****Single Number II
+此题棒棒哒！！！强烈推荐啊
+
+2014.11.10
+
+***Min Stack
+对内存卡的简直不能再严格。。。我擦
+
+*****Sort List
+nlgn的链表排序，开始写了一份快排，每次选取尾部节点作为pivot，但由于一组case太特殊，所有数只有1,2,3，导致快排退化太严重，直接TLE，换了一种选取pivot的方法也还是不行，毕竟case太特殊。。。。于是换了链表版的归并排序这才解决。。。我只能说我跪了
+
+Insertion Sort List 
+就懒得写插入排序的版本了，直接将上边的代码交上去了。。。
+
+Binary Tree Postorder Traversal
+后序遍历，用栈实现。
+
+Copy List with Random Pointer
+深拷贝一个随机链表
+
+Divide Two Integers
+看到有人用位运算，移位运算的本质不是乘法和除法吗，如果解答就是这个的话，那我只能跪。
+
+
 
 
 =======
