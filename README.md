@@ -183,8 +183,25 @@ Copy List with Random Pointer
 Divide Two Integers
 看到有人用位运算，移位运算的本质不是乘法和除法吗，如果解答就是这个的话，那我只能跪。
 
+Best Time to Buy and Sell Stock
+脑残题
 
+Triangle 
+脑残dp题
 
+2014.11.12
+
+Letter Combinations of a Phone Number
+脑残题
+
+**Generate Parentheses
+还是有点小意思的
+
+Search in Rotated Sorted Array
+二分搜索
+
+Sqrt(x)
+二分，爆INT，使用long long
 
 =======
 LeetCode
