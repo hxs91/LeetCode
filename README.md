@@ -1,7 +1,8 @@
 <<<<<<< HEAD
 #LeetCode
 有几题第一次写的时候思绪比较混乱：
-Regular Expression Matching
+*****Regular Expression Matching
+
 
 
 2014.10.29
@@ -202,6 +203,26 @@ Search in Rotated Sorted Array
 
 Sqrt(x)
 二分，爆INT，使用long long
+
+Rotate Image
+脑残数组找规律题
+
+**3Sum Closest
+二分，O(n^2);
+
+Add Binary
+脑残题
+
+Merge Intervals
+排序合并区间
+
+Anagrams
+没意思的一个题目
+
+*****Set Matrix Zeroes
+O(m+n)的空间，也想到一个常数空间的解法，但复杂度有点高。就是扫描，遇到0的将其行和列置为2（遇到0不置），继续扫描。。以后再说吧
+
+
 
 =======
 LeetCode
