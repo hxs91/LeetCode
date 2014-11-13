@@ -222,7 +222,37 @@ Anagrams
 *****Set Matrix Zeroes
 O(m+n)的空间，也想到一个常数空间的解法，但复杂度有点高。就是扫描，遇到0的将其行和列置为2（遇到0不置），继续扫描。。以后再说吧
 
+11.13
 
+Evaluate Reverse Polish Notation
+简单逆波兰
+
+Construct Binary Tree from Inorder and Postorder Traversal
+从中序和后序构建二叉树
+
+Combination Sum
+递归回溯，复杂度高得要死。。。就这样吧。
+
+Convert Sorted Array to Binary Search Tree
+构建二叉排序树，平衡的，每次取中位数作为根即可。
+
+Convert Sorted List to Binary Search Tree
+无聊。。。
+
+**Combination Sum II
+有点小意思。
+
+Combinations 
+爆搜，加了点剪枝
+
+Count and Say
+无聊的题，对读法的描述也不够形式，题目理解至今有问题。算了，随便找了份代码贴上。。。
+
+***Decode Ways
+动态规划，好吧，此题的case也是让人醉了
+
+*********Sort Colors
+牛逼。。。我只能说我学习了。（遍历一遍数组，常数空间）
 
 =======
 LeetCode
