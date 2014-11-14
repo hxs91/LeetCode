@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-#LeetCode
+
+#*的多少代表此题的有意思程度
+
+
 有几题第一次写的时候思绪比较混乱：
 *****Regular Expression Matching
 
@@ -254,9 +256,23 @@ Count and Say
 *********Sort Colors
 牛逼。。。我只能说我学习了。（遍历一遍数组，常数空间）
 
-=======
-LeetCode
-========
-   
-source code of leetcode OJ.
->>>>>>> 639e050a0bb5655ad1069ef8614e1ad2b8f247ae
+11.14
+
+Word Ladder
+简单宽度优先搜索
+
+*******Word Ladder II
+给此题跪了，在经历了WA,RE,TLE,OLE后，终于AC了。。。OLE的原因竟然在于我没有清零。。。思路是：宽搜，记录路径
+
+Search Insert Position
+二分
+
+Spiral Matrix
+无聊题
+
+Jump Game
+简单贪心
+
+******Jump Game II
+我的想法比较笨拙，discuss里有更漂亮的解法，留待以后来看吧。
+
