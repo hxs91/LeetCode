@@ -276,3 +276,54 @@ Jump Game
 ******Jump Game II
 我的想法比较笨拙，discuss里有更漂亮的解法，留待以后来看吧。
 
+11.15
+
+Merge Two Sorted Lists
+合并两个有序链表，easy
+
+******Minimum Window Substring
+还是蛮有意思的
+
+*****Linked List Cycle II
+好题哦~~
+
+Partition List
+对于这种题，其实一般给一个空的头结点之类的比较好，会少很多判断，算了。。
+
+********Wildcard Matching
+此题同Regular Expression Matching一样都还需要好好琢磨！！！！！！
+
+***Subsets II 
+有重复元素的子集生成
+
+******Substring with Concatenation of All Words
+还不错的一题，虽然AC了，但我的代码运行了1200ms+，discuss里有人的代码只运行了198ms。。。此题还有待继续学习。
+
+Reverse Linked List II
+这种链表的题目的确是没意思了。。
+
+*****Scramble String
+还是不错的题，我的想法很简单，观察到如果字符串a能够转换到字符串b，那么a紧靠左边的x个字符一定会与b紧靠左边或者紧靠右边的x个字符相同，只是顺序不一样而已，判断他们是不是都使用了相同的字符，只需要取出两个字符串的这x个字符，排序，一个接一个比较即可。
+
+Symmetric Tree
+特瞄的这么简单一题我还以为是难题呢。。。
+
+Populating Next Right Pointers in Each Node
+BFS搞定
+
+Search in Rotated Sorted Array II
+此题与Search in Rotated Sorted Array并无什么不同。。。特喵的
+
+Populating Next Right Pointers in Each Node II
+这题代码与Populating Next Right Pointers in Each Node 都是一模一样的。。。不知道出题人的用意，我看tag好像他们要的解法是dfs？不明所以。。
+
+Remove Duplicates from Sorted Array II
+无聊的题目
+
+***Remove Duplicates from Sorted List II
+可以做一做。
+
+
+
+
+
