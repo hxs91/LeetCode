@@ -38,7 +38,11 @@ Remove Duplicates from Sorted List
 2014.11.3
 
 Remove Element
-*****next Permutation
+
+
+******next Permutation
+STL的实现在<STL源码剖析>里可以看到
+
 
 2014.11.4
 
@@ -112,6 +116,7 @@ Multiply Strings
 KMP
 解锁了一个特别简单的答案，之后再看吧，反正字符串我是弱逼，估计现在也看不懂o(╯□╰)o：
 
+{
 public int strStr(String haystack, String needle) {
 
 	for (int i = 0; ; i++) {
@@ -128,6 +133,7 @@ public int strStr(String haystack, String needle) {
 		
 	}
 	
+}
 }
 
 ***Reorder List
@@ -150,6 +156,7 @@ Binary Tree Zigzag Level Order Traversal
 
 ****Longest Consecutive Sequence
 最开始脑袋里边闪过很多不切实际并且复杂的做法，最后用unordered_set搞定了。。。
+
 
 Clone Graph
 作为leetcode唯一一个图论的题目，我只能说，这题真是无聊透顶。。。
@@ -323,7 +330,28 @@ Remove Duplicates from Sorted Array II
 ***Remove Duplicates from Sorted List II
 可以做一做。
 
+11.16
 
+**N-Queens
+N皇后
 
+N-Queens II
+...不说什么了，还以为多难的题，一直不敢下手。。。
 
+******4Sum
+我的解法太臃肿了，，，应该还有更好的做法！以后看！
+
+Valid Sudoku
+无聊题
+
+*Sudoku Solver
+回溯
+
+Permutations
+考虑到了重复情况，虽然题目没有要求
+
+Palindrome Partitioning
+无聊题
+
+#缓一缓吧，过段时间再做。先看论文去了。
 
