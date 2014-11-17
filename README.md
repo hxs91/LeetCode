@@ -353,5 +353,47 @@ Permutations
 Palindrome Partitioning
 无聊题
 
-#缓一缓吧，过段时间再做。先看论文去了。
+11.17
 
+Permutations II
+和Permutations一样的代码，因为当时就考虑到重复的情况了
+
+***Max Points on a Line
+复杂度挺高的，数据太弱而已。能想到的优化方法也只是使用unordered_map并且不在每一次for循环时clear，那样的复杂度也有O(n^2)，不知道有没有其他的做法，另外，注意多point坐标一样的情况啊！。
+
+***Palindrome Partitioning II
+DP，这是别人的一份代码，思路和我一样，但聪明地使用了一个pal[i][j]数组来记录s[i...j]是否为回文。学习
+
+***Valid Number
+恩。。此题就是一个不断根据结果修复bug的典型代表，我挂了四次，分别是："46.e3" "+.8" ".e1" "."
+以后可以再做一下，力求让代码更加精简。。。
+
+****Permutation Sequence
+做出此题也是感觉棒棒哒~~发现规律就可解了
+
+Integer to Roman和Roman to Integer
+对罗马数字无爱
+
+****Unique Binary Search Trees II
+哈哈，1A此题的感觉还是很爽的。也是对卡特兰数的理解吧
+
+***Word Break II
+动态规划+回溯
+
+****Maximal Rectangle
+O(n^2)，不知还有更好的解法没
+
+****Longest Valid Parentheses
+栈+DP。
+rcd[i]表示在i之前匹配合法的最长子串的长度，将所有不合法匹配的位置都存储下来。
+在计算rcd[i]时，如果栈为空，则rcd[i]=i+1;
+否则栈不为空，则rcd[i]=Max(rcd[ x.top().rst ],i-x.top().rst);
+
+*****Largest Rectangle in Histogram
+单调栈的巧妙运用~~叼啊
+
+**Text Justification
+类似于word文档的”两端对齐“的功能
+
+*******Best Time to Buy and Sell Stock III
+此题，目前不会，先贴份代码吧。。。因为这是最后一道了，最近都在刷题，都没看论文，做这种无聊的事情又不能毕业，可是就是有强迫症啊，想把题都刷掉，于是就狂刷。现在是2014.11.17，我总算刷到了最后一道。。。想了好久还是都不会= =!，先贴份代码，我会在明年找工作之前将自己标星号的题都重新写一遍，并尽量将代码写得漂亮一些~今天就先这样吧，也为这疯狂的半个月划上个句号。明天开始好好干正事了。。。
